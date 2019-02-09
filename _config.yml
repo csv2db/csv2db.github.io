@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: [csv2db]
+description: [The little CSV command line loader you always wanted]
+show_downloads: ["true"]
