@@ -1,6 +1,7 @@
 ## Welcome to csv2db
 
 csv2db is a command line tool making it easy to load CSV files into a database.
+Check out the [Getting Started](https://github.com/csv2db/csv2db/wiki/Getting-Started) page and [User's Guide](https://github.com/csv2db/csv2db/wiki/User's-Guide) for how to get going.
 
 csv2db supports following databases:
 
