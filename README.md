@@ -8,6 +8,7 @@ csv2db supports following databases:
 * Oracle Database
 * MySQL / MariaDB
 * PostgreSQL
+* SQL Server
 * Db2
 
 Installing csv2db is as simple as downloading the zip file, extracting it and putting csv2db into your `$PATH`
