@@ -3,5 +3,6 @@ title: [csv2db]
 description: [The little CSV to database command line loader you always wanted]
 show_downloads: ["true"]
 github:
+  repository_url: https://github.com/csv2db/csv2db
   zip_url: https://github.com/csv2db/csv2db/archive/v1.5.1.zip
   tar_url: https://github.com/csv2db/csv2db/archive/v1.5.1.tar.gz
